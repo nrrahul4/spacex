@@ -1,0 +1,11 @@
+.categoryList__wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.category__header {
+    text-align: center;
+    text-transform: uppercase;
+    color: #675f5f;
+}
+

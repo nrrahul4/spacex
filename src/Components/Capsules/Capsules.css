@@ -1,0 +1,17 @@
+.capsule__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 20px;
+}
+
+.capsule__main h2 {
+    margin: 0;
+}
+
+p, span {
+    font-size: 13px;
+}
