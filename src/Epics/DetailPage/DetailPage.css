@@ -1,3 +1,9 @@
+.detailpage__main {
+    background-color: #f2f2f2;
+    min-height: 100vh;
+    padding: 20px;
+}
+
 .detailpage__wrap {
     display: flex;
     flex-wrap: wrap;

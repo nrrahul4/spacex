@@ -10,7 +10,7 @@ const categoriesList = [
   "Dragons",
   "History",
   "Info",
-  "Landing Pads",
+  "Land Pads",
   "Launches",
   "Launch Pads",
   "Missions",
